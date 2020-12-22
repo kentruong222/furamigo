@@ -2,4 +2,6 @@
 
 FurAmigo - digital product code 
 
-used socket io, express
+used socket io, express, and serialport
+
+use npm install
